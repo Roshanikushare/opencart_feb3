@@ -1,0 +1,44 @@
+10:21:56.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:21:56.794 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:41:31.054 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+10:41:37.512 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+10:41:40.547 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:41:51.730 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+11:10:15.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+11:10:16.818 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+11:10:19.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+11:10:22.206 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:00:30.325 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+10:00:33.649 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+10:00:36.654 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:00:47.292 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:18:27.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+10:18:28.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+10:18:31.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:18:36.624 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:40:38.107 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+10:40:39.496 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+10:40:42.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:40:52.564 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:49:37.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest ****** 
+10:49:38.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on rigister link
+10:49:38.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provinding customer data
+10:49:48.115 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:11:33.024 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+16:11:49.966 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
+15:56:27.775 [main] INFO  testCases.TC_003_loginDDT - starting tc_003
+15:59:30.634 [main] INFO  testCases.TC_003_loginDDT - starting tc_003
+16:01:49.373 [main] INFO  testCases.TC_003_loginDDT - starting tc_003
+16:02:04.076 [main] INFO  testCases.TC_003_loginDDT - ---finished tc_loginDDT--------
+16:02:04.101 [main] INFO  testCases.TC_003_loginDDT - starting tc_003
+10:35:57.621 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+10:36:15.588 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
+10:55:58.237 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+10:56:07.823 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
+11:01:39.834 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+15:50:28.942 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+15:50:45.565 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
+10:36:53.407 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+10:37:02.306 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
+10:48:43.775 [main] INFO  testCases.TC_LoginTest - ---starting TC_logintest----
+10:48:53.093 [main] INFO  testCases.TC_LoginTest - ----finished tc_logintest----
